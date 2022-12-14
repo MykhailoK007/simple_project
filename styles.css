@@ -22,7 +22,7 @@
     box-sizing: border-box;
     outline: none;
 }
-a {
+.forgot_password {
     text-align: right;
     color: lightgrey;
     font-size: 14px;
