@@ -22,7 +22,7 @@
     box-sizing: border-box;
     outline: none;
 }
-.forgot_password {
+a {
     text-align: right;
     color: lightgrey;
     font-size: 14px;
@@ -41,7 +41,5 @@ p {
     margin-top: 20px;
     text-decoration: none;
 }
-#durak  {
-    margin-bottom: 0px;
-}
+
 
