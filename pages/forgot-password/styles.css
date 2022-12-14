@@ -18,30 +18,22 @@
 .container-item { 
     border: 0;
     border-bottom: 2px solid lightgray;
-    margin-bottom: 30px;
+    margin-bottom: 20px;
     box-sizing: border-box;
     outline: none;
 }
-.forgot-password {
-    text-align: right;
-    color: lightgrey;
-    font-size: 14px;
-    margin-top: 20px;
-}
+
 p {
     text-align: center;
     color: lightgrey;
     font-family: arial;
-    margin-bottom: 50px;
+    margin-bottom: 40px;
     font-size: 30px;
 }
-.sign-up {
+.cancel {
     text-align: center;
     color: #2b72fc;
     margin-top: 20px;
     text-decoration: none;
+    font-size: 14px;
 }
-#durak  {
-    margin-bottom: 0px;
-}
-
