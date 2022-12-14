@@ -1,0 +1,45 @@
+.container {
+    display: flex;
+    justify-content: center;   
+    flex-direction: column;
+    width: 300px;
+    margin: 0 auto;
+    height: 100vh;
+    font-family: arial; 
+}
+.submit {
+    color: lightgray;
+    margin-top: 10px;
+    border: 0;
+    padding: 10px 0;
+    background:#2b72fc;
+    
+}
+.container-item { 
+    border: 0;
+    border-bottom: 2px solid lightgray;
+    margin-bottom: 30px;
+    box-sizing: border-box;
+    outline: none;
+}
+a {
+    text-align: right;
+    color: lightgrey;
+    font-size: 14px;
+    margin-top: 20px;
+}
+p {
+    text-align: center;
+    color: lightgrey;
+    font-family: arial;
+    margin-bottom: 50px;
+    font-size: 30px;
+}
+.sign-up {
+    text-align: center;
+    color: #2b72fc;
+    margin-top: 20px;
+    text-decoration: none;
+}
+
+
