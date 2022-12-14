@@ -28,7 +28,7 @@
     font-size: 14px;
     margin-top: 20px;
 }
-p {
+.page-tittle {
     text-align: center;
     color: lightgrey;
     font-family: arial;
@@ -40,6 +40,7 @@ p {
     color: #2b72fc;
     margin-top: 20px;
     text-decoration: none;
+    font-size: 14px;
 }
 #durak  {
     margin-bottom: 0px;
